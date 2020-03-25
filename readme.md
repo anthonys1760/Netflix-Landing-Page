@@ -1,4 +1,4 @@
-# Netflix Landing Page
+# Netflix Landing Page Redesign
 
 ![Netflix Landing Page](responsive.png)
 <hr>
