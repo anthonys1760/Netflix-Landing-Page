@@ -1,6 +1,7 @@
 # Netflix Landing Page Redesign
 
 ![Netflix Landing Page](responsive.png)
+![Netflix Long Page](netflixlong.png)
 <hr>
 
 A fully responsive redesign of the Netflix Landing Page using HTML, CSS and JavaScript.
