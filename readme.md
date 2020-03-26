@@ -2,6 +2,7 @@
 
 ![Netflix Landing Page](responsive.png)
 <hr>
+
 ![Netflix Long Page](netflixlong.png)
 <hr>
 
