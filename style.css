@@ -408,13 +408,24 @@ p {
         text-transform: none;
         padding: 0.5rem;
     }
+
+    section.tabs {
+        padding-top: 1rem;
+    }
 }
 
 @media (max-width: 313px) {
     .showcase-top a {
         display: none;
     }
+
+    .tabs {
+        padding-top: 3rem;
+        
+    }
 }
+
+
 
 
 #signature {
