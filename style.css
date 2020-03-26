@@ -361,6 +361,19 @@ p {
     }
 }
 
+@media (max-width: 392px) {
+    .tabs .container > div {
+        padding: 0.5rem;
+    }
+}
+
+@media (max-width: 302px) {
+    .fa-tv  {
+       
+    }
+}
+
+
 #signature {
     color: #E50914;
 }
