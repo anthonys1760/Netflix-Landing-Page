@@ -2,7 +2,7 @@
 
 ![Netflix Landing Page](responsive.png)
 A fully responsive redesign of the Netflix Landing Page using HTML, CSS and JavaScript.
-<hr>
+
 ## Steps to view this project:
 - Download the entire code 
 - Open up the index.html.
@@ -13,6 +13,7 @@ A fully responsive redesign of the Netflix Landing Page using HTML, CSS and Java
 - CSS [style/Presentation]
 - Javascript [Logic/Working of calculator]
 
+## Full Website View
 ![Netflix Long Page](netflixlong.png)
 <hr>
 
